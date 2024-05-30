@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin
 - 👀 I’m interested in Data engineering
-- 🌱 I’m currently learning Apache Spark
+- 🌱 I’m currently learning Apache Kafka
 - 💞️ I’m looking to collaborate on Data engineering topics
 
 <!---
